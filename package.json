@@ -2,7 +2,7 @@
   "name": "react-vite-ts",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://quynhhla2.github.io/memories-game-pages/",
+  "homepage": "https://quynhhla2.github.io/memories-game/",
   "type": "module",
   "scripts": {
     "dev": "vite",
