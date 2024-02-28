@@ -2,7 +2,7 @@
   "name": "react-vite-ts",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://quynhhla2.github.io/ex-memories-game-pages/",
+  "homepage": "https://quynhhla2.github.io/memories-game-pages/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "gh-pages": "^6.1.1",
