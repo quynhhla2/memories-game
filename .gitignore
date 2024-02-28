@@ -1,0 +1,9 @@
+# Bỏ qua thư mục node_modules
+node_modules/
+
+# Bỏ qua thư mục build
+dist/
+
+# Bỏ qua các tệp cấu hình môi trường
+.env
+.env.local
